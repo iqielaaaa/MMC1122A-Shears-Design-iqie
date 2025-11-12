@@ -1,0 +1,37 @@
+body {background-color:blueviolet}
+#wrapper2 {background-color: white; margin: 0px auto;width:900px;}
+#wrapper {background-color: white ; margin: 0px auto; width: 950px;}
+
+
+p {color:saddlebrown;}	
+#logo {float:left}
+#icon {float: right}
+#navigation {clear: both;border-top: solid black 1px; border-bottom: solid black 1px; margin: 5px 5px 5px 5px; padding: 5px 5px 5px 5px;}
+#navigation a {font-family: Arial;margin-left: 10px;}
+#navigation a {clear: both; word-spacing: 18px;}
+#navigation a:link {color: saddlebrown}
+#navigation a:hover {color: saddlebrown}
+
+#title {color: orangered;border-bottom: solid black 1px;}
+
+#leftcontent {float: left; width: 600px;}
+#leftcontent p {font-family: Arial; font-size:12px; margin: 10px 0px 10px 0px;}
+#leftcontent img {border: solid black 1px;padding: 5px;}
+#leftcontent1 {float: left; width: 900px;}
+#leftcontent1 p {font-family: Arial; font-size:12px; margin: 10px 0px 10px 0px;}
+
+#NEWS {float:right; width: 200px;}
+#NEWS h3 {color: orangered}
+#Fooster {clear: both;padding: 10px 50px 10px 320px; border-top: solid black 1px;}
+
+#wrapper3, #wrapper4, #wrapper5 {background-color: silver;width: 250px;border-top: solid brown 12px;box-sizing: border-box;margin: 25px;}
+#wrapper3 {float: left;}
+#wrapper4 {float: left;}
+#wrapper5 {float: right;}
+#kotak-tiga after {content: "";display: block;clear: both;}
+h1 {font-size:21px;}
+
+#featured services {float: left}
+
+
+
